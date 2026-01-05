@@ -90,6 +90,46 @@
 .feature-card p {
     color: #F85606;
 }
-.checkout-section{
+
+.checkout-section {
     padding: 60px 0px;
 }
+
+.checkout-section h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.checkout-form {
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 30px;
+    background-color: #808080;
+    box-shadow: 0px 31px 39px 0px rgba(89, 181, 120, 0.75);
+    -webkit-box-shadow: 0px 31px 39px 0px rgba(89, 181, 120, 0.75);
+    -moz-box-shadow: 0px 31px 39px 0px rgba(89, 181, 120, 0.75);
+}
+.custom-input {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.footer{
+    padding: 60px 0px;
+    background-color:#211E1E;
+    color: white;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logo{
+    width: 150px;
+    height: 60px;
+}
+.social-icons a{
+    color: white;
+    font-size: 1.5rem;;
+}
+.social-icons a:h
